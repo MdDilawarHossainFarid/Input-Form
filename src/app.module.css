@@ -1,0 +1,8 @@
+.app {
+  box-sizing: border-box;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+.heading {
+  color: rgb(225, 12, 80);
+}
